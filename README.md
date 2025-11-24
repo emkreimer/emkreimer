@@ -2,12 +2,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://profile-counter.glitch.me/emkreimer/count.svg?"  />
-</div>
-
-###
-
 <p align="left">I'm an IT undergraduate @ UFRN (Universidade Federal do Rio Grande do Norte). <br><br>I am driven by curiosity and a desire to be the best I can. Besides coding, I'm very enthusiastic about puzzles and storytelling...well, sometimes a little too enthusiastic. Anyway! I'm currently diving deeper into the open source world, so hit me up if you're in need of a contributor.</p>
 
 ###
